@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1576406270 source:c:\users\rádi kristóf\desktop\munkáim\sdllife\labirinth\main.c
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<time.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+
